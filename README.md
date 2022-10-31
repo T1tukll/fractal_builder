@@ -1,2 +1,2 @@
 # fractal_builder
-Programm with fractal building functional
+Program with fractal building functional
